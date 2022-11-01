@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Poppins;
+}
+body {
+  margin: 0px;
+  overflow: hidden;
+  background: #171723;
+}
+
+div {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 100px;
+}
